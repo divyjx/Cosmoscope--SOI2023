@@ -1,0 +1,8 @@
+# folders
+train_features/
+val_features/
+
+# data formats
+metadata.csv
+submission_format.csv
+train_labels.csv
