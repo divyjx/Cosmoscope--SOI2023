@@ -1,6 +1,7 @@
 # folders
 train_features/
 val_features/
+*.csv
 
 # data formats
 metadata.csv
