@@ -2,3 +2,6 @@ pandas
 numpy 
 scikit-learn
 seaborn 
+matplotlib
+tensorflow-cpu
+ipykernel
