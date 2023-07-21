@@ -44,3 +44,7 @@ This is a machine learning project used to analyse GCMS data collected by Sample
    |peaks_and_common_values.ipynb     | for visualization and peak detection
    |plottingPeaks.ipynb               | visualization|
    |cnn_model_testing.ipynb           | used for finding best model achitecture|
+
+## kaggle notebooks
+[cnn_model](https://www.kaggle.com/code/divyjain9090/cnn-model/notebook)
+[cnn_model_testing](https://www.kaggle.com/code/divyjain9090/cnn-model-testing/notebook)
