@@ -2,8 +2,10 @@
 train_features/
 val_features/
 
-# data formats
+# csv files
 metadata.csv
 submission_format.csv
 train_labels.csv
 
+# model files
+*.keras
