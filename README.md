@@ -32,8 +32,9 @@ This is a machine learning project used to analyse GCMS data collected by Sample
 |-----                   | ----|
 |cnn_model.ipynb                   | main model|
 |predictor.ipynb                   | for making predictions|
+|val_labels_Shlorp.csv                   | final prediction file|
 |requirements.txt                  |   |
-|val_labels_Shlorp.csv                   | final prediction file|\
+|report.pdf                  |   |\
 
    |optional files                   | description|
    |-----                   | ----|
